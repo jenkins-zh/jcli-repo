@@ -16,5 +16,7 @@ Download develop version of jcli by the following URL:
 | Linux | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo/jcli-linux-amd64.tar.gz` |
 | Windows | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo/jcli-windows-386.tar.gz` |
 
+Or, you can browse them from [here](https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo/).
+
 Thanks [jsDelivr](https://github.com/jsdelivr/jsdelivr) for providing the CDN.
 
