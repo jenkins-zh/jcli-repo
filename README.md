@@ -1,2 +1,20 @@
-# jcli-repo
-Jenkins CLI repository
+## Jenkins CLI repository
+
+Download a specific version of jcli by the following URL:
+
+| OS | URL |
+|---|---|
+| MacOS | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo@0.0.26/jcli-darwin-amd64.tar.gz` |
+| Linux | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo@0.0.26/jcli-linux-amd64.tar.gz` |
+| Windows | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo@0.0.26/jcli-windows-386.tar.gz` |
+
+Download develop version of jcli by the following URL:
+
+| OS | URL |
+|---|---|
+| MacOS | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo/jcli-darwin-amd64.tar.gz` |
+| Linux | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo/jcli-linux-amd64.tar.gz` |
+| Windows | `wget https://cdn.jsdelivr.net/gh/jenkins-zh/jcli-repo/jcli-windows-386.tar.gz` |
+
+Thanks [jsDelivr](https://github.com/jsdelivr/jsdelivr) for providing the CDN.
+
