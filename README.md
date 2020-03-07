@@ -2,6 +2,10 @@
 
 This is a storage repository of [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli).
 
+
+![jcli](jcli.gif)
+
+
 Download a specific version of jcli by the following URL:
 
 | OS | URL |
