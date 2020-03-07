@@ -3,7 +3,7 @@
 This is a storage repository of [Jenkins CLI](https://github.com/jenkins-zh/jenkins-cli).
 
 
-![jcli](jcli.gif)
+![jcli](https://raw.githubusercontent.com/jenkins-zh/jcli-repo/master/jcli.gif)
 
 
 Download a specific version of jcli by the following URL:
